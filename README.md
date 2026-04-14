@@ -1,5 +1,3 @@
-# loan-approval-data-analysis---
-Data analysis project to identify key factors influencing loan approval using Python, SQL, and Power BI.
 # Loan Approval Data Analysis
 
 ## 📌Project Overview
@@ -31,7 +29,7 @@ This project analyzes loan application date to identify key factors influencing 
 — Certain loan categories show higher rejection rates
 
 ## 📂Project files
-👉📊 Dataset: []👉👉👉
+👉📊 Dataset: [View Dataset](👉👉👉
 
 ## 🎯Conclusion 
 This project demonstrates how data cleaning, analysis, and visualization can support better financial decision-making.
