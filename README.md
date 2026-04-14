@@ -33,7 +33,7 @@ This project analyzes loan application date to identify key factors influencing 
 👉📊 Dataset: [View Dataset](https://github.com/Akanksha-Panga/loan-approval-data-analysis---/blob/main/loan_approved%20(1).csv)
 👉🐍python:[View Code](https://github.com/Akanksha-Panga/loan-approval-data-analysis---/blob/main/Loan%20Approved.ipynb)
 👉SQL Queries:[View Queries](https://github.com/Akanksha-Panga/loan-approval-data-analysis---/blob/main/Loan%20Approved%20SQL.sql)
-👉📈Power BI:[View Dashboard](https://"C:\Users\akank\OneDrive\Desktop\New folder (2)\l_approved dashbaord.pbix")
+👉📈Power BI:[View Dashboard](https://github.com/Akanksha-Panga/loan-approval-data-analysis---/blob/main/loan%20approval%20analysis%20project.pbix)
 '''
 
 ## 🎯Conclusion 
