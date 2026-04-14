@@ -29,7 +29,10 @@ This project analyzes loan application date to identify key factors influencing 
 — Certain loan categories show higher rejection rates
 
 ## 📂Project files
-👉📊 Dataset: [View Dataset](👉👉👉
+👉📊 Dataset: [View Dataset](link)
+👉🐍python:[View Code](link)
+👉SQL Queries:[View Queries](link)
+👉📈Power BI:[View Dashboard](link)
 
 ## 🎯Conclusion 
 This project demonstrates how data cleaning, analysis, and visualization can support better financial decision-making.
