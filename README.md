@@ -16,17 +16,33 @@ This project analyzes loan application date to identify key factors influencing 
 ## 📊Data Analysis
 — Performed exploratory data analysis to identify trends and patterns
 — Used SQL queries to extract and validate data
-— Analyzed customer attributes such as income, credit history, and loan amount
+— Analyzed 600+ loan records to identify approval trends based on income, credit score, and loan amount
 
 ## 📉Dashboard (Power BI)
+🔗[View Full Dashboard](https://github.com/Akanksha-Panga/loan-approval-data-analysis---/blob/main/Screenshot%20of%20Loan%20Approval%20.png)
 — Visualized loan approval trends 
 — Compared approval rates across different categories
 — identified high-risk and low-risk segments
 
 ## 💡Key Insights 
-— Applicants with higher income have a higher chance of loan approval 
-— Credit history plays a major role in approval decisions 
-— Certain loan categories show higher rejection rates
+— Applicants with higher income show significantly higher approval rates, indicating lower perceived risk.
+👉Business Action: Financial institutions can introduce custom loan products for low income segments with adjusted interest rates to expand customer base.
+— Applicants with poor credit history show high rejection rates, making it a crucial decision factor.
+👉Business Action: Banks can offer credit improvement programs or secured loans to convert rejected applicants into future customers.
+— Certain applicant segments such as those with no credit history, multiple dependents with no employment and having low credit history with property areas also face stricter approval patterns.
+👉Business Action: Financial institutions can segment applicants based on these factors and introduce tailored loan policies, such as flexible eligibility criteria for low income groups, and risk adjusted loan offerings to improve approval rates without increasing default risk.
+
+## 💼Business Impact
+— Improved understanding of key factors influencing loan approvals 
+— Helps financial institutions reduce rejection rates by targeting the right customer segments
+— Enables businesses to design customized loan products for different income groups
+— Potential to increase customer conversion rate and profitability
+
+## 📌Recommendations
+— Introduce targeted loan plans for low income applicants
+— Develop credit score improvement programs for rejected users
+— Optimize approval criteria for high rejection loan categories
+— Use predictive models in future to automate loan approval decisions
 
 ## 📂Project files
 '''
