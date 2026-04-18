@@ -26,10 +26,15 @@ This project analyzes loan application date to identify key factors influencing 
 
 ## 💡Key Insights 
 — Applicants with higher income show significantly higher approval rates, indicating lower perceived risk.
+
 👉Business Action: Financial institutions can introduce custom loan products for low income segments with adjusted interest rates to expand customer base.
+
 — Applicants with poor credit history show high rejection rates, making it a crucial decision factor.
+
 👉Business Action: Banks can offer credit improvement programs or secured loans to convert rejected applicants into future customers.
+
 — Certain applicant segments such as those with no credit history, multiple dependents with no employment and having low credit history with property areas also face stricter approval patterns.
+
 👉Business Action: Financial institutions can segment applicants based on these factors and introduce tailored loan policies, such as flexible eligibility criteria for low income groups, and risk adjusted loan offerings to improve approval rates without increasing default risk.
 
 ## 💼Business Impact
